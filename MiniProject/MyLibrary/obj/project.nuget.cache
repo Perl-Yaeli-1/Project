@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "EsqC5I7U01Z0J8jrFI+dPhLmJczuHMiVqS+SZo5ZAYl2Mty8dCbr5j2Qc4u5mg2CUMFfYKnRkOQm0EyqR7l31A==",
+  "success": false,
+  "projectFilePath": "A:\\!שייך לקיפ\\כל מיני\\סמינר\\יד\\פרויקט\\פרויקט דמה\\MiniProject\\MyLibrary\\Algorithm.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package NETStandard.Library. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "NETStandard.Library",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

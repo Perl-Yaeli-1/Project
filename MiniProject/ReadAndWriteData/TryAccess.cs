@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ReadAndWriteData
 {
-    class TryAccess
+     class TryAccess
     {
         public void Writing()
         {

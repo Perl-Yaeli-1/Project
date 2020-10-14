@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MyLibrary\Algorithm.csproj" />
+    <ProjectReference Include="..\AlgorithmFramework\Algorithm.csproj" />
     <ProjectReference Include="..\ReadAndWriteData\ReadAndWriteData.csproj" />
   </ItemGroup>
 

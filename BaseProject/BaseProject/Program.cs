@@ -1,15 +1,16 @@
 ﻿using System;
+using Algorithm;
+using ReadAndWriteData;
 
-namespace MiniProject
+namespace BaseProject
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Git!");
-            Console.WriteLine("GitSecond!");
-            Console.WriteLine("GitThird!");
+           ReadAndWriteData.Class1 c = new ReadAndWriteData.Class1();
+            c.wr();
         }
     }
 }
